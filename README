@@ -5,8 +5,8 @@ make -Cbuild install
 
 
 # Then to execute the code from the LCS-papier directory
-# c the number of transactions, n the number of sample that we will do and f the threshold 
-python3 launch.py {database-name} {c} {n} {f}
+# c the number of transactions, n the number of sample that we will do and k the number of sampling between each call of krimp
+python3 launch.py {database-name} {n} {c} {k}
 
 # all results wanted would be in Res/{databsae-name}
 
