@@ -1,5 +1,5 @@
 # for Linux
-# You made nned to build Krimp if that's the case go into Krimp/trunks and execute following commands line
+# You made need to build Krimp if that's the case go into Krimp/trunks and execute following commands line
 ./bootstrap.sh
 make -Cbuild install
 
