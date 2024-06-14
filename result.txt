@@ -7,50 +7,52 @@
  * Threaded:		using 4 threads
 
 ** Database :: 
- * File:		connect.db
+ * File:		hepatitis.db
  * Reading header:	in progress... * Reading header:	done.         
  * Standard lengths:	computing... * Standard lengths:	computed.   
- * Standard db size:	17774813.592950
- * Database:		67557t 67557r, 2904951i, 17774813.59bits
- * 			pruned below support 0, maximum set length 43
- * Alphabet:		129 items
+ * Standard db size:	27351.356257
+ * Database:		137t 137r, 4658i, 27351.36bits
+ * 			pruned below support 0, maximum set length 34
+ * Alphabet:		68 items
  * Internal datatype:	128bit bitmap
- ** WARNING : |ab| > 128 : won't fit in BM128, using Uint16 **
-
  * Reading data:	in progress... * Reading data:	done          
 ** Finished reading database.
 
 ** ItemSetCollection ::
- * Retrieved:		connect-closed-2d.isc
- * # Sets:		37 (hd)
+ * Retrieved:		hepatitis-closed-2d.isc
+ * # Sets:		47 (hd)
 
 ** Compression :: 
  * Initiating...
- * Experiment tag	connect-closed-2d-pop-20240614164903
+ * Experiment tag	hepatitis-closed-2d-pop-20240614173738
  * Algorithm:		coverpartial post-accept-prune
- * Candidates:		37p
- * Start:		(129a,0u,2904951,17774814,2270,17777083)
- - Progress:		0% (0) 94710281461280 c/s
- | Progress:		2% (1) 7 c/s
- \ Progress:		5% (2) 5 c/s
- - Progress:		8% (3) 5 c/s
- \ Progress:		13% (5) 5 c/s
- - Progress:		16% (6) 94710296020384 c/s
- - Progress:		24% (9) 94710307165648 c/s
- / Progress:		27% (10) 94710307165728 c/s
- \ Progress:		37% (14) 94710388336144 c/s
- / Progress:		51% (19) 94710296020384 c/s
- - Progress:		56% (21) 6 c/s
- | Progress:		62% (23) 94710388335040 c/s
- - Progress:		72% (27) 94710388335264 c/s
- | Progress:		78% (29) 94710296020384 c/s
- / Progress:		83% (31) 94710388335712 c/s
- * Parallel:		30 candidates had to be rechecked.
- * Time:		Compressing the database took 0.354799 seconds.
- * Result:		(129a,31u,2530520,15739002,8559,15747561)
+ * Candidates:		47p
+ * Start:		(68a,0u,4658,27351,865,28216)
+ - Progress:		0% (0) 94248281499152 c/s
+ | Progress:		2% (1) 0 c/s
+ - Progress:		4% (2) 0 c/s
+ | Progress:		6% (3) 94248281500160 c/s
+ - Progress:		8% (4) 94248281502608 c/s
+ | Progress:		10% (5) 94248281503040 c/s
+ | Progress:		14% (7) 0 c/s
+ \ Progress:		17% (8) 18446744073709551600 c/s
+ \ Progress:		25% (12) 94248281502576 c/s
+ \ Progress:		29% (14) 94248281816064 c/s
+ | Progress:		38% (18) 0 c/s
+ | Progress:		46% (22) 94248281816448 c/s
+ - Progress:		48% (23) 4 c/s
+ \ Progress:		57% (27) 2 c/s
+ / Progress:		59% (28) 94248281501744 c/s
+ / Progress:		63% (30) 94248281503008 c/s
+ | Progress:		74% (35) 1 c/s
+ | Progress:		82% (39) 1 c/s
+ / Progress:		91% (43) 1 c/s
+ * Parallel:		35 candidates had to be rechecked.
+ * Time:		Compressing the database took 0.001447 seconds.
+ * Result:		(68a,16u,3400,20462,3234,23696)
 ** Finished compression.
 
- * Check results in:	/home/camelinf/IdeaProjects/MH+MDL/experiments/connect10/compress/
+ * Check results in:	/home/camelinf/IdeaProjects/MH+MDL/experiments/hepatitis20/compress/
 
-Task `main`, command `compress` finished. This took 1 seconds.
+Task `main`, command `compress` finished. This took 0 seconds.
 

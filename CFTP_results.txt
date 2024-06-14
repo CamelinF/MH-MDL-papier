@@ -1,11 +1,11 @@
-[data/connect.dat, result.txt, 1]
-TransactionDB: #transactions=67557
-ItemDB: #items=129
+[data/hepatitis.dat, result.txt, 1]
+TransactionDB: #transactions=137
+ItemDB: #items=68
 ============
 DATABASE is rectangular? true
 Sampling 1 patterns using Freq^3 distribution
-Ensemble :63133 46609 29478 
+Ensemble :117 84 45 
 ..........
 Progress completed!
-Time taken: 248
-[20, 26, 29, 32, 35, 47, 50, 64, 67, 70, 73, 76, 80, 101, 104, 110, 122, 125] (7323)
+Time taken: 43
+[2, 8, 13, 16, 31, 51, 54, 56, 58] (19)
