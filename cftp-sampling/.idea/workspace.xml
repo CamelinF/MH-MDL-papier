@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0573f0a1-dbe9-4363-b61b-d01fb13ad84a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Sckit_mine-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/Sckit_mine-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CFTP_results.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CFTP_results.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/bin/_fic.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/bin/_fic.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/bin/compress.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/bin/compress.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/bin/convert_all_datasets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/bin/datadir.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/bin/datadir.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/bin/fic.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/bin/fic.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/bin/include.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/bin/krimp" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/bin/krimp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/bin/launch_krimp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/FicMain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/FicMain.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/algo/CodeTable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/algo/CodeTable.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/algo/CodeTable.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/algo/CodeTable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/algo/coverpartial/CCCPCodeTable.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/algo/coverpartial/CCCPCodeTable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/3.16.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/3.16.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/FicConf.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/FicConf.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/FicMain.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/FicMain.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/Algo.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/Algo.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/CTFile.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/CTFile.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/CTISList.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/CTISList.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/CTLog.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/CTLog.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/CodeTable.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/CodeTable.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverfull/CFCodeTable.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverfull/CFCodeTable.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverfull/CoverFull.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverfull/CoverFull.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverfull/ParallelCoverFull.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverfull/ParallelCoverFull.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CCCPCodeTable.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CCCPCodeTable.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CCPCodeTable.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CCPCodeTable.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CPACodeTable.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CPACodeTable.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CPCodeTable.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CPCodeTable.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CPOCodeTable.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CPOCodeTable.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CPROCodeTable.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CPROCodeTable.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CoverPartial.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/CoverPartial.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/ParallelCoverPartial.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/algo/coverpartial/ParallelCoverPartial.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/blocks/classifier/Classifier.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/blocks/classifier/Classifier.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/blocks/classifier/CtAnalyser.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/blocks/classifier/CtAnalyser.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/blocks/stream/Histogram.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/blocks/stream/Histogram.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/blocks/stream/StreamAlgo.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/blocks/stream/StreamAlgo.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/ficmkii.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/ficmkii.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/ClassifyTH.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/ClassifyTH.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/DataTransformTH.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/DataTransformTH.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/DissimilarityTH.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/DissimilarityTH.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/MainTH.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/MainTH.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/MineTH.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/MineTH.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/StreamTH.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/StreamTH.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/TaskHandler.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/CMakeFiles/krimp.dir/tasks/TaskHandler.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/Bass.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/Bass.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/ClassedDatabase.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/ClassedDatabase.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/Database.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/Database.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/DbAnalyser.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/DbAnalyser.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/DbFile.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/DbFile.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/FicDbFile.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/FicDbFile.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/FimiDbFile.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/db/FimiDbFile.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/BinaryFicIscFile.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/BinaryFicIscFile.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/BinaryFicIscFileAsync.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/BinaryFicIscFileAsync.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/FicIscFile.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/FicIscFile.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/FicIscFileAsync.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/FicIscFileAsync.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/FimiIscFile.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/FimiIscFile.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/IscFile.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/IscFile.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/ItemSetCollection.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/ItemSetCollection.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/ItemTranslator.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/isc/ItemTranslator.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/BAI32CoverSet.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/BAI32CoverSet.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/BAI32ItemSet.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/BAI32ItemSet.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/BM128CoverSet.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/BM128CoverSet.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/BM128ItemSet.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/BM128ItemSet.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/CoverNode.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/CoverNode.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/CoverSet.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/CoverSet.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/ItemSet.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/ItemSet.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/Mask.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/Mask.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/Uint16CoverSet.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/Uint16CoverSet.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/Uint16ItemSet.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/itemstructs/Uint16ItemSet.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/Bass.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/bass/libBass.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/bass/libBass.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/Croupier.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/Croupier.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/AFOPTMine.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/AFOPTMine.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/AfoptCroupier.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/AfoptCroupier.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/AfoptMiner.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/AfoptMiner.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/ArrayMine.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/ArrayMine.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/Global.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/Global.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/ScanDBMine.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/ScanDBMine.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/closed/cfptree_outbuf.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/closed/cfptree_outbuf.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/data.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/data.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/fsout.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/fsout.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/hash_map.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/hash_map.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/parameters.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/afopt/parameters.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/apriori/AprioriCroupier.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/apriori/AprioriCroupier.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/apriori/AprioriMiner.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/apriori/AprioriMiner.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/apriori/AprioriNode.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/apriori/AprioriNode.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/apriori/AprioriTree.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/apriori/AprioriTree.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/CMakeFiles/Croupier.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/libCroupier.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/croupier/libCroupier.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/install_manifest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/install_manifest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/krimp" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/krimp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/ArrayUtils.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/ArrayUtils.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/Config.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/Config.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/FileUtils.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/FileUtils.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/RandomUtils.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/RandomUtils.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/StringUtils.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/StringUtils.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/SystemUtils.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/SystemUtils.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/Thread.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/Thread.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/TimeUtils.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/TimeUtils.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/VORegistry.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/VORegistry.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/glibc_s.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/glibc_s.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/logger/FileLogger.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/logger/FileLogger.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/logger/Logger.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/logger/Logger.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/logger/StdOutLogger.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/CMakeFiles/Qtils.dir/logger/StdOutLogger.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/libQtils.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Krimp/trunk/build/qtils/libQtils.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sckit_mine.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Sckit_mine.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_fic.log" beforeDir="false" afterPath="$PROJECT_DIR$/../_fic.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uab/cftp/sampling/CouplingFromThePast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uab/cftp/sampling/CouplingFromThePast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uab/cftp/sampling/CouplingFromThePastRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uab/cftp/sampling/CouplingFromThePastRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uab/cftp/sampling/MetropolisAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uab/cftp/sampling/MetropolisAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uab/cftp/sampling/MetropolisHastingsAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uab/cftp/sampling/MetropolisHastingsAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/uab/cftp/sampling/WeightBasedNextStateProposer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/uab/cftp/sampling/WeightBasedNextStateProposer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compress.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../compress.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../convertdb.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../convertdb.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/DataTest.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../data/DataTest.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/DataTest.db" beforeDir="false" afterPath="$PROJECT_DIR$/../data/DataTest.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/candidates/DataTest-all-1d.isc" beforeDir="false" afterPath="$PROJECT_DIR$/../data/candidates/DataTest-all-1d.isc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/candidates/DataTest-all-2d.isc" beforeDir="false" afterPath="$PROJECT_DIR$/../data/candidates/DataTest-all-2d.isc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/candidates/hepatitis-closed-10d.bisc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/candidates/hepatitis-closed-80d.isc" beforeDir="false" afterPath="$PROJECT_DIR$/../data/candidates/hepatitis-closed-80d.isc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/candidates/hepatitis-closed-8d.isc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/candidates/these22-all-3d.isc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/chess.db" beforeDir="false" afterPath="$PROJECT_DIR$/../data/chess.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/connect.db" beforeDir="false" afterPath="$PROJECT_DIR$/../data/connect.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/heart-cleveland.db" beforeDir="false" afterPath="$PROJECT_DIR$/../data/heart-cleveland.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/iris.db" beforeDir="false" afterPath="$PROJECT_DIR$/../data/iris.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/mushroom.db" beforeDir="false" afterPath="$PROJECT_DIR$/../data/mushroom.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pumsb.db" beforeDir="false" afterPath="$PROJECT_DIR$/../data/pumsb.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/sampleTrans.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../data/sampleTrans.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../execute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../extractCFTP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../extractCFTP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../extractKrimp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../extractKrimp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fic.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../fic.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logLCM.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resLCM.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../resLCM.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sampleTrans.dat" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2RBwFaIzL5BaYZ8cn4GGu1JY4Oo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/camelinf/IdeaProjects/These/localcomp/cftp-sampling&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0573f0a1-dbe9-4363-b61b-d01fb13ad84a" name="Changes" comment="" />
+      <created>1686736679654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686736679654</updated>
+    </task>
+    <servers />
+  </component>
+</project>
